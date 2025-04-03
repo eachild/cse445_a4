@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="https://" xsi:schemaLocation="https://">
+    <Hotel>
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E.7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearstAirport>Sky Harbor</NearstAirport>
+        </Address>
+        <Rating>4.2</Rating>
+    </Hotel>
+        <Hotel>
+        <Name>Heaven2</Name>
+        <Phone>888-888-1111</Phone>
+        <Address>
+            <Number>888</Number>
+            <Street>S.8th St</Street>
+            <City>Atlanta</City>
+            <State>GA</State>
+            <Zip>45678</Zip>
+            <NearstAirport>Georgia Airport</NearstAirport>
+        </Address>
+        <Rating>4.9</Rating>
+    </Hotel>
+        <Hotel>
+        <Name>Oak Hotel3</Name>
+        <Phone>333-333-3124</Phone>
+        <Address>
+            <Number>333</Number>
+            <Street>N.3rd St</Street>
+            <City>Phoneix</City>
+            <State>AZ</State>
+            <Zip>85050</Zip>
+            <NearstAirport>Phonix Airport</NearstAirport>
+        </Address>
+    </Hotel>
+        <Hotel>
+        <Name>Oceanside4</Name>
+        <Phone>444-444-4859</Phone>
+        <Phone>123-456-7890</Phone>
+        <Address>
+            <Number>444</Number>
+            <Street>W.4th Avenue</Street>
+            <City>Seattle</City>
+            <State>WA</State>
+            <Zip>44156</Zip>
+            <NearstAirport>Rainy Winds</NearstAirport>
+        </Address>
+        <Rating>3.8</Rating>
+    </Hotel>
+        <Hotel>
+        <Name>Peace5</Name>
+        <Phone>555-555-5182</Phone>
+        <Phone>402-048-4682</Phone>
+        <Address>
+            <Number>555</Number>
+            <Street>S.5th Ln</Street>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <Zip>56821</Zip>
+            <NearstAirport>San Fran Airport</NearstAirport>
+        </Address>
+    </Hotel>
+        <Hotel>
+        <Name>Luxury6</Name>
+        <Phone>686-668-6671</Phone>
+        <Address>
+            <Number>686</Number>
+            <Street>N.6th Ln</Street>
+            <City>Tucson</City>
+            <State>AZ</State>
+            <Zip>67861</Zip>
+            <NearstAirport>Cloudy Lands</NearstAirport>
+        </Address>
+        <Rating>2.1</Rating>
+    </Hotel>
+        <Hotel>
+        <Name>Field View7</Name>
+        <Phone>777-777-7102</Phone>
+        <Address>
+            <Number>777</Number>
+            <Street>W.7th Avenue</Street>
+            <City>Boulder</City>
+            <State>CO</State>
+            <Zip>77812</Zip>
+            <NearstAirport>Boulder Airport</NearstAirport>
+        </Address>
+        <Rating>4.4</Rating>
+    </Hotel>
+        <Hotel>
+        <Name>Sunny8</Name>
+        <Phone>888-128-8495</Phone>
+        <Phone>120-903-7485</Phone>
+        <Address>
+            <Number>888</Number>
+            <Street>E.8th St</Street>
+            <City>Flagstaff</City>
+            <State>AZ</State>
+            <Zip>88935</Zip>
+            <NearstAirport>Snowy Pines Airport</NearstAirport>
+        </Address>
+    </Hotel>
+        <Hotel>
+        <Name>Solace9</Name>
+        <Phone>999-999-9823</Phone>
+        <Address>
+            <Number>999</Number>
+            <Street>S.9th Avenue</Street>
+            <City>Miami</City>
+            <State>FL</State>
+            <Zip>98213</Zip>
+            <NearstAirport>watery water Airport</NearstAirport>
+        </Address>
+        <Rating>4</Rating>
+    </Hotel>
+        <Hotel>
+        <Name>Finale10</Name>
+        <Phone>101-010-1010</Phone>
+        <Phone>792-283-2940</Phone>
+        <Phone>672-304-2918</Phone>
+        <Address>
+            <Number>1010</Number>
+            <Street>N.10th Avenue</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>10101</Zip>
+            <NearstAirport>Poker Airport</NearstAirport>
+        </Address>
+        <Rating>5</Rating>
+    </Hotel>
+</Hotels>
