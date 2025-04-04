@@ -14,7 +14,7 @@
         </Address>
         <Rating>4.2</Rating>
     </Hotel>
-        <Hotel>
+    <Hotel>
         <Name>Heaven2</Name>
         <Address>
             <Number>888</Number>
@@ -26,7 +26,7 @@
         </Address>
         <Rating>4.9</Rating>
     </Hotel>
-        <Hotel>
+    <Hotel>
         <Name>Oak Hotel3</Name>
         <Phone>333-333-3124</Phone>
         <Address>
@@ -36,8 +36,9 @@
             <State>AZ</State>
             <Zip>85050</Zip>
             <NearstAirport>Phonix Airport</NearstAirport>
+        </Address>
     </Hotel>
-        <Hotel>
+    <Hotel>
         <Name>Oceanside4</Name>
         <Phone>444-444-4859</Phone>
         <Phone>123-456-7890</Phone>
@@ -51,7 +52,7 @@
         </Address>
         <Rating>3.8</Rating>
     </Hotel>
-        <Hotel>
+    <Hotel>
         <Name>Oceanside4</Name>
         <Phone>555-555-5182</Phone>
         <Phone>402-048-4682</Phone>
@@ -64,7 +65,7 @@
             <NearstAirport>San Fran Airport</NearstAirport>
         </Address>
     </Hotel>
-        <Hotel>
+    <Hotel>
         <Name>Luxury6</Name>
         <Phone>686-668-6671</Phone>
         <Address>
@@ -77,7 +78,7 @@
         </Address>
         <Rating>2.1</Rating>
     </Hotel>
-        <Hotel>
+    <Hotel>
         <Name>Field View7</Name>
         <Phone>777-777-7102</Phone>
         <Address>
@@ -90,7 +91,7 @@
         </Address>
         <Rating>4.4</Rating>
     </Hotel>
-        <Hotel>
+    <Hotel>
         <Name>Sunny8</Name>
         <Phone>888-128-8495</Phone>
         <Phone>120-903-7485</Phone>
@@ -103,7 +104,7 @@
             <NearstAirport>Snowy Pines Airport</NearstAirport>
         </Address>
     </Hotel>
-        <Hotel>
+    <Hotel>
         <Name>Solace9</Name>
         <Phone>999-999-9823</Phone>
         <Address>
@@ -116,7 +117,7 @@
         </Address>
         <Rating>4</Rating>
     </Hotel>
-        <Hotel>
+    <Hotel>
         <Name>Finale10</Name>
         <Phone>101-010-1010</Phone>
         <Phone>792-283-2940</Phone>
@@ -128,7 +129,6 @@
             <State>NV</State>
             <Zip>10101</Zip>
             <NearstAirport>Poker Airport</NearstAirport>
-        </Address>
         <Rating>5</Rating>
     </Hotel>
 </Hotel>
