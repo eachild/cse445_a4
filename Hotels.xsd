@@ -30,3 +30,4 @@
             <xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
         </xsd:complexType>
     </xsd:element>
+</xsd:schema>
