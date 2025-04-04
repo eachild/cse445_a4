@@ -7,6 +7,12 @@
                 <xsd:element name="Hotel" maxOccurs="unbounded"/>
             </xsd:sequence>
         </xsd:complexType>
+
+        <!-- need a unique hotel name-->
+        <xsd:unique name="UniqueName">
+            <xsd:selector xpath="Hotel"/>
+            <xsd:field xpath="Name"/>
+        </xsd:unique>
     </xsd:element>
     <xsd:element name="Hotel">
         <xsd:complexType>
