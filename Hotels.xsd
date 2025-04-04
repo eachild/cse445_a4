@@ -14,8 +14,8 @@
                 <xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
                 <xsd:element name="Phone" type="xsd:string" minOccurs="1" maxOccurs="unbounded"/>
                 <xsd:element name="Address" minOccurs="1" maxOccurs="1"/>
-                <xsd:attribute name="Rating" type="xsd:double" use="optional"/>
             </xsd:sequence>
+            <xsd:attribute name="Rating" type="xsd:double" use="optional"/>
         </xsd:complexType>
     </xsd:element>
     <xsd:element name="Address">
@@ -26,7 +26,7 @@
                 <xsd:element name="City" type="xsd:string"/>
                 <xsd:element name="State" type="xsd:string"/>
                 <xsd:element name="Zip" type ="xsd:string"/>
-                <xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
             </xsd:sequence>
+            <xsd:attribute name="NearstAirport" type="xsd:string" use="required"/>
         </xsd:complexType>
     </xsd:element>
